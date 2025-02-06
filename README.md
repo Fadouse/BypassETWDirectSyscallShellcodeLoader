@@ -75,6 +75,7 @@ Below is the screenshot of the VirusTotal scan, showing the detection count:
 
 ## Analysis Links
 
+- [MalwareBazaar Analysis](https://bazaar.abuse.ch/sample/3c220b93f4fe03e48e788514be11404b20ef6587391e190ed615fdd11a29e340)
 - [VirusTotal Analysis](https://www.virustotal.com/gui/file/3c220b93f4fe03e48e788514be11404b20ef6587391e190ed615fdd11a29e340)
 - [Triage Sandbox Analysis](https://tria.ge/250206-lz2xdatkgq)
 - [Any.Run Sandbox Task](https://app.any.run/tasks/b072ba65-4c95-40c7-9998-f9fdb8e84f50)
