@@ -31,7 +31,7 @@
 ```plaintext
 BypassETWDirectSyscallShellcodeLoader/
 ├── README.md                   # Project description and documentation
-├── main.c                      # Main source code file
+├── main.cpp                    # Main source code file
 ```
 
 ---
@@ -46,7 +46,7 @@ BypassETWDirectSyscallShellcodeLoader/
 ### Build Steps
 
 1. **Import the Code**  
-   Download the `main.c` file and any related files into your working directory.
+   Download the `main.cpp` file and any related files into your working directory.
 
 2. **Create a Project**  
    In Visual Studio, create a new C/C++ project and add the downloaded source files to the project.
