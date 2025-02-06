@@ -63,6 +63,16 @@ BypassETWDirectSyscallShellcodeLoader/
 
 ---
 
+# Analysis Report
+
+This repository contains the malware analysis results.
+
+## VirusTotal Scan Results
+
+Below is the screenshot of the VirusTotal scan, showing the detection count:
+
+![VirusTotal Scan Result](2025-02-06_18-01-05.png)
+
 ## Analysis Links
 
 - [VirusTotal Analysis](https://www.virustotal.com/gui/file/3c220b93f4fe03e48e788514be11404b20ef6587391e190ed615fdd11a29e340)
